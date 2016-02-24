@@ -1,0 +1,7 @@
+json.id character.id
+json.character_first_name character.first_name
+json.character_last_name character.last_name
+json.character_job_title character.job_title
+json.actor_first_name character.actor_first_name
+json.actor_last_name character.actor_last_name
+json.show character.show
